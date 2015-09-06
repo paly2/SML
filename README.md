@@ -18,3 +18,8 @@ Divide `op1` and `op2` (`dest` is the result and `rest` the remainder).
 * Implement decimal operations.
 * Implement related operations.
 * Create functions wich reallocate the strings by size.
+
+## See also
+
+* [GMP](https://gmplib.org/), GNU Project
+* [Numerus](https://github.com/LeMagnesium/numerus), by @LeMagnesium
